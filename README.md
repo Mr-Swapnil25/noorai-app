@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center" style="font-size:1.25em; color: #CBA6F7;">
+<p align="center" style="font-size:1.25em;">
   <strong>NoorAI</strong><br>
   Empowering Beauty Through AI &amp; Indian Cultural Heritage
 </p>
@@ -29,21 +29,21 @@
     <img src="https://img.shields.io/badge/FlutterFlow-5A67D8?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
   </a>
   <br>
-  <img src="https://img.shields.io/github/issues/yourusername/noorai-app" alt="GitHub Issues"/>
-  <img src="https://img.shields.io/github/license/yourusername/noorai-app" alt="License"/>
+  <img src="https://img.shields.io/github/issues/Mr-Swapnil25/noorai-app" alt="GitHub Issues"/>
+  <img src="https://img.shields.io/github/license/Mr-Swapnil25/noorai-app" alt="License"/>
 </p>
 
 ---
 
 ## About NoorAI
 
-NoorAI is a next-generation AI-powered beauty and skincare app tailored for the modern Gen Z audience. It blends the spiritual essence of Indian beauty rituals with advanced AI (Google Gemini Vision) to deliver personalized skin analysis, culturally rooted recommendations, and a luxurious user experience.
+NoorAI is a next-generation AI-powered beauty and skincare app crafted for the modern Gen Z audience. It gracefully blends the spiritual essence of Indian beauty rituals with cutting-edge AI (Google Gemini Vision) to deliver personalized skin analysis, culturally-rooted recommendations, and a luxurious user experience.
 
 ---
 
 ## Vision
 
-Democratizing personalized skincare by fusing ancient Indian wisdom with cutting-edge AI—celebrating glow, identity, and heritage.
+Democratizing personalized skincare by fusing ancient Indian wisdom with advanced AI—celebrating glow, identity, and heritage.
 
 ## Mission
 
@@ -100,7 +100,7 @@ Empowering individuals with accessible, intelligent, and culturally respectful s
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/noorai-app.git
+git clone https://github.com/Mr-Swapnil25/noorai-app.git
 cd noorai-app
 
 # Install Flutter packages
@@ -234,7 +234,8 @@ noorai-app/
 ## License
 
 MIT License.  
-Logo & branding assets © NoorAI, all rights reserved.
+Logo & branding assets © NoorAI, all rights reserved.  
+See [LICENSE](LICENSE) for details.
 
 ---
 
