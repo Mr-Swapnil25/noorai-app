@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/noorai-logo.png" alt="NoorAI Logo" width="240" style="max-width: 90%; min-width: 120px;"/>
+  <img src="assets/images/noorai-logo.png" alt="NoorAI Logo" width="240" style="max-width: 90%; min-width: 120px;"/>
 </p>
 
 ---
@@ -249,7 +249,7 @@ See [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  <img src="assets/logo/noorai-logo.png" alt="NoorAI Logo" width="80"/><br/>
+  <img src="assets/images/noorai-logo.png" alt="NoorAI Logo" width="80"/><br/>
   <b>Made with love to celebrate timeless beauty, powered by modern AI</b><br/>
   <i>“Noor” – The divine light within</i><br/>
   <sub>© 2025 NoorAI – All rights reserved.</sub>
