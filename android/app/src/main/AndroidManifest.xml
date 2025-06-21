@@ -1,11 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mycompany.luminaface"
+    package="com.mycompany.noorai"
     xmlns:tools="http://schemas.android.com/tools">
     <uses-permission android:name="android.permission.INTERNET"/>
 
 
     <application
-        android:label="Lumina Face"
+        android:label="Noor Ai"
         tools:replace="android:label"
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true">
@@ -45,7 +45,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="luminaface" android:host="luminaface.com" />
+                <data android:scheme="noorai" android:host="noorai.com" />
             </intent-filter>
 
         </activity>

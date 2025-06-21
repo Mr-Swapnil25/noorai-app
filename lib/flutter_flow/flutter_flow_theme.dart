@@ -130,6 +130,14 @@ abstract class FlutterFlowTheme {
   String get bodySmallFamily => typography.bodySmallFamily;
   bool get bodySmallIsCustom => typography.bodySmallIsCustom;
   TextStyle get bodySmall => typography.bodySmall;
+  String get customTextStyle1Family => typography.customTextStyle1Family;
+  TextStyle get customTextStyle1 => typography.customTextStyle1;
+  String get customTextStyle2Family => typography.customTextStyle2Family;
+  TextStyle get customTextStyle2 => typography.customTextStyle2;
+  String get customTextStyle3Family => typography.customTextStyle3Family;
+  TextStyle get customTextStyle3 => typography.customTextStyle3;
+  String get customTextStyle4Family => typography.customTextStyle4Family;
+  TextStyle get customTextStyle4 => typography.customTextStyle4;
 
   Typography get typography => ThemeTypography(this);
 }
@@ -206,6 +214,14 @@ abstract class Typography {
   String get bodySmallFamily;
   bool get bodySmallIsCustom;
   TextStyle get bodySmall;
+  String get customTextStyle1Family;
+  TextStyle get customTextStyle1;
+  String get customTextStyle2Family;
+  TextStyle get customTextStyle2;
+  String get customTextStyle3Family;
+  TextStyle get customTextStyle3;
+  String get customTextStyle4Family;
+  TextStyle get customTextStyle4;
 }
 
 class ThemeTypography extends Typography {
@@ -317,6 +333,26 @@ class ThemeTypography extends Typography {
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 12.0,
+      );
+  String get customTextStyle1Family => 'Primary Family';
+  TextStyle get customTextStyle1 => GoogleFonts.roboto(
+        color: Colors.white,
+        fontSize: 16.0,
+      );
+  String get customTextStyle2Family => 'Primary Family';
+  TextStyle get customTextStyle2 => GoogleFonts.roboto(
+        color: Colors.white,
+        fontSize: 16.0,
+      );
+  String get customTextStyle3Family => 'Primary Family';
+  TextStyle get customTextStyle3 => GoogleFonts.roboto(
+        color: Colors.white,
+        fontSize: 16.0,
+      );
+  String get customTextStyle4Family => 'Primary Family';
+  TextStyle get customTextStyle4 => GoogleFonts.roboto(
+        color: Colors.white,
+        fontSize: 16.0,
       );
 }
 

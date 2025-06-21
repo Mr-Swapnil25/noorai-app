@@ -54,6 +54,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: SkinProfileSetupWidget.routeName,
           path: SkinProfileSetupWidget.routePath,
           builder: (context, params) => SkinProfileSetupWidget(),
+        ),
+        FFRoute(
+          name: HomeScreenWidget.routeName,
+          path: HomeScreenWidget.routePath,
+          builder: (context, params) => HomeScreenWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );
